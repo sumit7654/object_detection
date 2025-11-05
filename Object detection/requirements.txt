@@ -1,0 +1,6 @@
+streamlit
+streamlit_webrtc
+tempfile
+ultralytics
+PIL
+os
