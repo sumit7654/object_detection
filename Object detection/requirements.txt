@@ -1,6 +1,7 @@
 streamlit
-streamlit_webrtc
-tempfile
-YOLO
-PIL
-os
+streamlit-webrtc
+ultralytics
+opencv-python-headless
+numpy
+pandas
+Pillow
