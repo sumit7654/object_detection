@@ -1,6 +1,6 @@
 streamlit
 streamlit_webrtc
 tempfile
-ultralytics
+YOLO
 PIL
 os
